@@ -8,7 +8,7 @@ Out of the box, the site uses completely static data coming from a provider at `
 
 ### Live preview
 
-Click [here](https://www.jamstackecommerce.dev/) to see a live preview.
+Click [here] to see a live preview.
 
 <details>
   <summary>Other Jamstack ECommerce pages</summary>
